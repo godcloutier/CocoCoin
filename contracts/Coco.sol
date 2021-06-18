@@ -2,7 +2,8 @@
 /*
 
     Cococoin is a charity token.
-    5% of every transacion is converted to BNB and sent to the Binanc chartiy fundation BSC wallet 
+
+    5% of every transacion is converted to BNB and sent to the  Lupus Foundation of America (@LupusOrg on twitter) BSC wallet 
     
 
     
